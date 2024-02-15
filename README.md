@@ -1,4 +1,4 @@
-# Acessibilidade Audio - Projeto DOMA
+# Acessibilidade Audio
 
 
 This repository contains an Android application for accessibility that provides audio notifications and checks for Bluetooth audio device connectivity. The code is organized into several classes to manage audio, notifications, and text-to-speech functionalities.
